@@ -50,5 +50,5 @@ void insertionsort() {
         cout << endl;
         cout << "\nPass " << i << ": ";
 
-    }
+    } 
 }
