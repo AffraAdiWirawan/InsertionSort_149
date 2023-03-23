@@ -63,4 +63,9 @@ void display() {
     cout << "\n======================" << endl;
     cout << "Elemen Array yang telah Tersusun" << endl;
     cout << "================================" << endl;
-}
+    for (int j = 0; j < n; j++)
+    {
+        cout << arr[j] << endl;
+    }
+    cout << endl;
+}}
